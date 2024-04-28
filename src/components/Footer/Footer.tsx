@@ -11,12 +11,12 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+        <span>test</span>
+        <span>test</span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
+          This Website test <img src={reactIcon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
@@ -29,7 +29,7 @@ export function Footer() {
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/bekhzod-olimov"
           target="_blank"
           rel="noreferrer"
         >
