@@ -12,6 +12,7 @@ import huggingface from "../../assets/huggingface.svg";
 import numpy from "../../assets/numpy.svg";
 import opencv from "../../assets/opencv.svg";
 import sklearn from "../../assets/sklearn.png";
+import ScrollAnimation from "react-animate-on-scroll";
 
 export function About() {
   return (
