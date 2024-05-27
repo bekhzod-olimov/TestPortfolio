@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 import VinayakSingh from "../../assets/VinayakSingh.png";
-import wordpress from "../../assets/wordpress.svg";
+import pytorch from "../../assets/pytorch.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
@@ -38,7 +38,7 @@ export function About() {
         <div className="hard-skills">
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
-              <img src={wordpress} alt="Wordpress" />
+              <img src={pytorch} alt="PyTorch" />
             </ScrollAnimation>
           </div>
           <div className="hability">
