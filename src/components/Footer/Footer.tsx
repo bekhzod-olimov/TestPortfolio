@@ -1,6 +1,7 @@
 import { Container } from './styles'
 import reactIcon from '../../assets/react-icon.svg'
 import linkedin from '../../assets/linkedin.svg'
+import kaggle from '../../assets/kaggle.svg'
 import githubIcon from '../../assets/github.svg'
 import google_scholar from '../../assets/google_scholar.svg'
 import telegram from '../../assets/telegram.svg'
@@ -9,23 +10,22 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://vinayaksingh.in" className="logo">
-        <span>test</span>
-        <span>test</span>
+      <a href="https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/" className="logo">
+        <span>Information</span>
       </a>
       <div>
         <p>
-          This Website test <img src={reactIcon} alt="React" />
+          This Website is powered by <img src={reactIcon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/"
+          href="https://www.kaggle.com/killa92"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={linkedin} alt="Linkedin" />
+          <img src={kaggle} alt="Kaggle" />
         </a>
         <a
           href="https://github.com/bekhzod-olimov"
