@@ -58,7 +58,8 @@ export function About() {
             <ScrollAnimation animateIn="fadeInUp" delay={0.15 * 1000}>
               <img src={pl} alt="PyTorch Lightning" />
             </ScrollAnimation>
-          </div>
+          </div></p>
+          <p>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.16 * 1000}>
               <img src={opencv} alt="OpenCV" />
@@ -78,7 +79,8 @@ export function About() {
             <ScrollAnimation animateIn="fadeInUp" delay={0.19 * 1000}>
               <img src={django} alt="Django" />
             </ScrollAnimation>
-          </div>
+          </div></p>
+          <p>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.20 * 1000}>
               <img src={docker} alt="Docker" />
@@ -98,7 +100,7 @@ export function About() {
             <ScrollAnimation animateIn="fadeInUp" delay={0.23 * 1000}>
               <img src={js} alt="Java Script" />
             </ScrollAnimation>
-          </div>
+          </div></p>
         </div>
       </div>
       <div className="about-image">
