@@ -32,71 +32,72 @@ export function About() {
         <div className="hard-skills">
         <p>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.12 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.12 * 1000}>
               <img src={pytorch} alt="PyTorch" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.13 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.13 * 1000}>
               <img src={huggingface} alt="Hugging Face" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.14 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.14 * 1000}>
               <img src={tensorflow} alt="TensorFlow" />
             </ScrollAnimation>
           </div>
           </p>
           <p>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.15 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.15 * 1000}>
               <img src={pl} alt="PyTorch Lightning" />
             </ScrollAnimation>
-          </div></p>
+          </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.16 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.16 * 1000}>
               <img src={opencv} alt="OpenCV" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.17 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.17 * 1000}>
               <img src={sklearn} alt="Scikit-learn" />
             </ScrollAnimation>
           </div>
           </p>
           <p>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.18 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.18 * 1000}>
               <img src={numpy} alt="NumPy" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.19 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.19 * 1000}>
               <img src={django} alt="Django" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.20 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.20 * 1000}>
               <img src={docker} alt="Docker" />
             </ScrollAnimation>
-          </div>
+            </div>
           </p>
           <p>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.21 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.21 * 1000}>
               <img src={git} alt="Git" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.22 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.22 * 1000}>
               <img src={python} alt="Python" />
             </ScrollAnimation>
           </div>
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.23 * 1000}>
+            <ScrollAnimation animateIn="fadeInLeft" delay={0.23 * 1000}>
               <img src={js} alt="Java Script" />
             </ScrollAnimation>
-          </div></p>
+            </div>
+            </p>
         </div>
       </div>
       <div className="about-image">
