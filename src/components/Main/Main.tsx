@@ -10,7 +10,7 @@ import htmlIcon from "../../assets/tensorflow.svg";
 import cssIcon from "../../assets/huggingface.svg";
 import sassIcon from "../../assets/django.svg";
 import jsIcon from "../../assets/js.svg";
-import nodeIcon from "../../assets/git.svg";
+import nodeIcon from "../../assets/numpy.svg";
 import reactIcon from "../../assets/docker.svg";
 import typescriptIcon from "../../assets/pl_logo.svg";
 import vueIcon from "../../assets/vscode.svg";
